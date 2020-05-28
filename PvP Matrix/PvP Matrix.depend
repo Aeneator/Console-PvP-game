@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1576225949 source:c:\users\emil\desktop\pvp matrix\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+
+1576555563 source:c:\users\emil\desktop\best stuff\matrix\pvp matrix\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<fstream>
+
+1589978939 source:c:\users\emil\desktop\c++   projects\best stuff\matrix\pvp matrix\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<fstream>
+
